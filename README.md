@@ -22,5 +22,18 @@ gulp
 - Changed Bootstap gap
 - Fonts smoothing by default
 
+## Bootstrap config
+
+```$grid-columns:                12 !default;
+$grid-gutter-width:           10px !default; // You can modify bootstrap 15px gutter
+
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px
+) !default;
+```
 
 ![BrowserSync](browsersync.gif "BS")
