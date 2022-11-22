@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/dope/gulp-starter",
   "devDependencies": {
-    "browser-sync": "^2.0.0",
+    "browser-sync": "^2.27.10",
     "gulp": "^3.8.8",
     "gulp-autoprefixer": "^1.0.1",
     "gulp-imagemin": "^2.2.1",
